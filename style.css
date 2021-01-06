@@ -1,0 +1,115 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.name{
+    color: darkorange;
+}
+p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+    color: #006666;
+}
+.link{
+    text-decoration: none;
+    background-color: #FFB533 ;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: 800;
+    
+    
+    
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+    
+}
+.half-width-img{
+    width: 65%;
+    margin-left: 10%;
+    padding-bottom: 10%;
+    
+}
+#icon{
+    width: 20px;
+    padding-top: 10px;
+}
+.highlighter{
+    color: tomato;
+}
+.top-section{
+    background-color: ##FFFFFF;
+
+}
+.middle-section{
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+    
+}
+#center{
+    text-align: center;
+}
+.projects{
+    width: 30%;
+    float: left;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    margin: 10px 22px;
+    height: 350px;
+}
+.picture{
+    width: 80%;
+    margin-left: 30px;lets-chat
+    padding-top: 20px;
+}
+.lower-section{
+    padding-top: 35px;
+    width: 100%;
+    background-color: #E5E5E5;
+    height: 600px;
+    border-radius: 5px;
+    
+
+}
+.beautify{
+    margin-left: 5%;
+    color: #363958;
+    font-size: 20px;
+}
+.decoration{
+    margin-left: 5%;
+    font-size: 15px;
+    color: #6C6C6C;
+}
+
+.work-inq{
+    margin-left: 30%;
+    padding-top: 50px;
+    font-weight: 700;
+    color: whitesmoke;
+    font-size: 30px;
+}
+.last-section{
+    margin-top: 70px;
+    padding-top: 50px;
+    background-image: url(images/image9.png);
+    border-radius: 80px;
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 40px;
+    padding-bottom: 80px;
+}
+
+#lets-chat{
+    margin-left: 80%;
+    
+}
+h6{
+    text-align: center;
+    color: gray;
+}
