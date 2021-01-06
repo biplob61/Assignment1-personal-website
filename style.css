@@ -114,6 +114,6 @@ h6{
     color: gray;
 }
 
-h1:hover,h2:hover,h3:hover,p:hover{
+h1:hover,h2:hover,h3:hover{
     background-color: greenyellow;
 }
